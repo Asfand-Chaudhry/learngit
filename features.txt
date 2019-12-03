@@ -1,2 +1,4 @@
 features
 this is new feature
+
+2nd feature
